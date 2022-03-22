@@ -23,18 +23,28 @@
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/solidity-1A2838?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Framer motion" src="https://img.shields.io/badge/Framer Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  
   
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="redux-toolkit" src="https://img.shields.io/badge/Redux--Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img alt="Mui" src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img alt="react-query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img alt="unity-game-engine" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  
+  <img alt="Mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="bash-shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  
+  
 </p>
 
 <h2>GitHub Stats</h2>
