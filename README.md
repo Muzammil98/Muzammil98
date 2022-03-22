@@ -9,7 +9,7 @@
 - 📫 How to reach me: **muzammilsarwar0@gmail.com**
 
 
-<h2>Things i code with</h2>
+<h2>Things i enjoy working with</h2>
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
