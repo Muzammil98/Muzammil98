@@ -1,6 +1,6 @@
 <h1><a href="https://www.meuzi.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi there, I'm Muzammil Sarwar</h1>
 
-<h3 align="left">Team Lead |  Fullstack developer |  Cloud - Devops Engineer | Solutions Architect</h3>
+<h3 align="left">Team Lead |  Fullstack Engineer |  Cloud - Devops Engineer | Solutions Architect</h3>
 
 - 🌱 Love to ideat, inovate and build better software solutions and support in growth of others!
 
