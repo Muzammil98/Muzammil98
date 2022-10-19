@@ -4,7 +4,7 @@
 
 - 🌱 Love to ideat, inovate and build better software solutions and support in growth of others!
 
-- ⛰️ Currently Exploring: **Blockchain, Dapps Developement, Web 3.0, Defi, L2 Solutions, DAOs, ERC20, ERC721 and more**
+- ⛰️ Currently Exploring: **DevOps and Cloud Native Development & Infrastructure**
 
 - 📫 How to reach me: **muzammilsarwar0@gmail.com**
 
