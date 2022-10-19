@@ -50,6 +50,7 @@
 <h2>GitHub Stats</h2>
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=muzammil98&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil98&theme=react&hide_border=false" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil98&theme=react&layout=compact" />
 </p>
 
